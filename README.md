@@ -3,6 +3,9 @@ Python  + Selenium script to automate a post per day on your page starting from 
 
 ### THIS IS A VERY HACKY SOLUTION AND MAY REQUIRE TWEAKING TO WORK.  
 
+## PREREQUISITE
+* Python 3
+
 ## USAGE 
 * pip install -r requirements.txt
 * download and install chrome and chrome driver
