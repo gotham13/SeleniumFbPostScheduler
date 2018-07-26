@@ -1,5 +1,5 @@
 # SeleniumFbPostScheduler
-Python  + Selenium script to automate a post per day on your facebook page starting from particular date. 
+Python  + Selenium script to automate a post per day on your facebook page starting from a particular date. 
 
 ### THIS IS A VERY HACKY SOLUTION AND MAY REQUIRE TWEAKING TO WORK.  
 
